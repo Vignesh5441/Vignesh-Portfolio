@@ -1,0 +1,28 @@
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  
+    
+
+
+.banner{
+    background-image: url(/photos/background\ image.jpg);
+   padding: 200px 0;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.img{
+    height: 350px;
+    width: 300px;
+   
+}
+.card
+{
+    height: 300px;
+}
+.skill-padding{
+    padding: 70px 0;
+}
