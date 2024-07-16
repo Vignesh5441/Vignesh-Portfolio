@@ -9,7 +9,7 @@
 
 
 .banner{
-    background-image: url(/photos/background\ image.jpg);
+    background-image: url(./img/background\ image.jpg);
    padding: 200px 0;
    background-size: cover;
    background-repeat: no-repeat;
